@@ -1,0 +1,15 @@
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\bin\Debug\net8.0\tpmodul8.exe
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\bin\Debug\net8.0\tpmodul8.deps.json
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\bin\Debug\net8.0\tpmodul8.runtimeconfig.json
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\bin\Debug\net8.0\tpmodul8.dll
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\bin\Debug\net8.0\tpmodul8.pdb
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.AssemblyInfoInputs.cache
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.AssemblyInfo.cs
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.csproj.CoreCompileInputs.cache
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.sourcelink.json
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.dll
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\refint\tpmodul8.dll
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.pdb
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\tpmodul8.genruntimeconfig.cache
+D:\Kuyliah\Semester 4\KPL TP\tpmodul8\tpmodul8\obj\Debug\net8.0\ref\tpmodul8.dll
